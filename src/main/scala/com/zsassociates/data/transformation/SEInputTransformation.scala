@@ -75,6 +75,7 @@ object SEInputTransformation {
 
           // Saving output on the location as specified
           writeOutput(result, options.transformLocation, options.transformFormat)
+          //this is my output funcyion
 
           // Collect HCP Attributes
 //          val output = SEInputTransformationOutput(hcpAttributes)
